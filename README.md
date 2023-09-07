@@ -22,14 +22,14 @@
 2. 인기도 랭킹 계산에 관여하는 3가지의 지수 별 랭킹 차트
 3. 브랜드 이름이 해시태그 된 미디어의 연관 해시태그 워드 클라우드
 
-![dashboard_preview](result/Luxury Brands Popularity Ranking.png)
+![dashboard_preview](result/Luxury_Brands_Popularity_Ranking.png)
 
 ## 반응형 대시보드
 
 1. 차트 상단 필터 기능을 추가 해 원하는 데이터만 조회 가능하도록 구현
 2. Cross Filtering을 통해 차트의 특정 영역을 선택하여 연관된 차트를 필터링
 
-![dashboard_detail](result/Detailed Analysis by Luxury Brands1.png)
+![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_1.png)
 
 ### features
 - Most Frequent Post Types
@@ -48,7 +48,7 @@
   - 각 컬럼별 값에 따라 색상 그라데이션을 적용하여 한눈에 보이게 끔 함
   - 브랜드 간의 차별화를 확인하고 경쟁 우위를 평가
 
-![dashboard_detail](result/Detailed Analysis by Luxury Brands2.png)
+![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_2.png)
 
 ### Post Engagement Average Rate
 
@@ -56,14 +56,14 @@
 - 참여율에 비례하여 그래프 점들이 크게 보이게 함.
 - 소비자 동향을 파악
 
-![dashboard_detail](result/Detailed Analysis by Luxury Brands3.png)
+![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_3.png)
 
 ### Brand Post Upload Activity
 
 - 브랜드가 미디어를 포스트하는 개수를 나타냄으로써 게시글 업로드 추이를 볼 수 있음
 - 브랜드의 인스타그램 내에서의 활동성을 확인 할 수 있음.
 
-![dashboard_detail](result/Detailed Analysis by Luxury Brands4.png)
+![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_4.png)
 
 ### Instagram Post Upload Time Distribution
 
