@@ -14,6 +14,8 @@
   - 팔로워 지수 : 브랜드 인스타그램 팔로워수에 따라 랭킹 부여
   - 커뮤니티 지수 : 브랜드 이름이 해시태그된 미디어의 개수에 따라 랭킹 부여
 
+<br>
+
 # 대시보드
 
 ## 종합 대시보드
@@ -48,6 +50,9 @@
   - 각 컬럼별 값에 따라 색상 그라데이션을 적용하여 한눈에 보이게 끔 함
   - 브랜드 간의 차별화를 확인하고 경쟁 우위를 평가
 
+<br>
+<br>
+
 ![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_2.png)
 
 ### Post Engagement Average Rate
@@ -56,12 +61,18 @@
 - 참여율에 비례하여 그래프 점들이 크게 보이게 함.
 - 소비자 동향을 파악
 
+<br>
+<br>
+
 ![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_3.png)
 
 ### Brand Post Upload Activity
 
 - 브랜드가 미디어를 포스트하는 개수를 나타냄으로써 게시글 업로드 추이를 볼 수 있음
 - 브랜드의 인스타그램 내에서의 활동성을 확인 할 수 있음.
+
+<br>
+<br>
 
 ![dashboard_detail](result/Detailed_Analysis_by_Luxury_Brands_4.png)
 
